@@ -1,0 +1,1 @@
+Manual Merge is when the owner want the changes to be permanent
